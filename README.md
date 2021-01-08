@@ -34,3 +34,5 @@ The GBS-C AIO key features are:
 * Fast downscaling at 240P via VGA/YPbPr 
 
 * Built in Sync Strike that can be turned on and off
+
+
