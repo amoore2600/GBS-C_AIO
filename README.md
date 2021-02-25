@@ -49,9 +49,9 @@ Suport the GBScontrol project and Buy Rama a coffee - https://www.buymeacoffee.c
 
 AIO board design by Jacob Proctor (Arithmaldor) - https://twitter.com/Arithmaldor
 
-GBS-C AIO user fourm https://www.gbscaio.com/forum
+GBS-C AIO user fourm - https://www.gbscaio.com/forum
 
-GBS-C AIO Private Facebook Group https://www.facebook.com/groups/gbscaio
+GBS-C AIO Private Facebook Group - https://www.facebook.com/groups/gbscaio
 
 
 
