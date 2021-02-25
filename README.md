@@ -38,12 +38,13 @@ A basic BOM, Gerbers (PCB plates and AIO Board), KiCad source files and Acylic p
 The recomeded addtions and modifications to the GBS 8200 Scaler are: 
 
 1. Remove the pots
-2. Clock mod - https://github.com/ramapcsx2/gbs-control/wiki/Si5351-Clock-Generator-install-notes
+2. Clock mod - https://github.com/ramapcsx2/gbs-control/wiki/Si5351-Clock-Generator-install-notes use SDA and SCL pads on the AIO board for easy installation.
 3. Replace c47 with a 22uf cap to compensate for the increased power draw from the clock mod.
 4. Add a a resistor value in parallel with r26 to correct the ypbpr output brightness.
 5. Replace the 150 ohm resistor on r26 if it is outside of 1% tolerance.
 
 This project uses the GBScontorl firmware by Rama - https://github.com/ramapcsx2/gbs-control
+
 Suport the GBScontrol project and Buy Rama a coffee - https://www.buymeacoffee.com/ramapcsx2 
 
 
