@@ -33,7 +33,7 @@ The GBS-C AIO key features are:
 
 
 
-A basic BOM, Gerbers (PCB plates and AIO Board), KiCad source files and Acylic plate files are included in this repository.
+A basic BOM, Gerbers (PCB plates and AIO Board), KiCad source files and Acrylic plate files are included in this repository.
 
 The recomeded addtions and modifications to the GBS 8200 Scaler are: 
 
