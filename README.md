@@ -3,11 +3,7 @@ Build files for the GBS-C AIO
 
 The GBS-C AIO is an open source add-on board for the GBS 8200 running the Gbscontrol custom open source firmware by Rama and others.
 
-
-
 The GBS-C AIO key features are: 
-
-
 
 * Very low lag, less than 1 frame.
 
@@ -34,5 +30,23 @@ The GBS-C AIO key features are:
 * Fast downscaling at 240P via VGA/YPbPr 
 
 * Built in Sync Strike that can be turned on and off
+
+
+
+A basic BOM, Gerbers (PCB plates and AIO Board), KiCad source files and Acylic plate files are included in this repository.
+
+The recomeded addtions and modifications to the GBS 8200 Scaler are: 
+
+1. Remove the pots
+2. Clock mod - https://github.com/ramapcsx2/gbs-control/wiki/Si5351-Clock-Generator-install-notes
+3. Replace c47 with a 22uf cap to compensate for the increased power draw from the clock mod.
+4. Add a a resistor value in parallel with r26 to correct the ypbpr output brightness.
+5. Replace the 150 ohm resistor on r26 if it is outside of 1% tolerance.
+
+This project uses the GBScontorl firmware by Rama - https://github.com/ramapcsx2/gbs-control
+Suport the GBScontrol project and Buy Rama a coffee - https://www.buymeacoffee.com/ramapcsx2 
+
+
+
 
 
