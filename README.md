@@ -47,6 +47,16 @@ This project uses the GBScontorl firmware by Rama - https://github.com/ramapcsx2
 
 Suport the GBScontrol project and Buy Rama a coffee - https://www.buymeacoffee.com/ramapcsx2 
 
+AIO board design by Jacob Proctor (Arithmaldor) - https://twitter.com/Arithmaldor
+
+GBS-C AIO user fourm https://www.gbscaio.com/forum
+
+GBS-C AIO Private Facebook Group https://www.facebook.com/groups/gbscaio
+
+
+
+
+
 
 
 
