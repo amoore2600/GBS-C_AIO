@@ -53,6 +53,8 @@ GBS-C AIO user fourm - https://www.gbscaio.com/forum
 
 GBS-C AIO Private Facebook Group - https://www.facebook.com/groups/gbscaio
 
+**PLEASE NOTE: The Bill of Matrials is still a WIP project and may be missing a few componets, this will updated soon.** 
+
 
 
 
