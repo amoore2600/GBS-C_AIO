@@ -1,4 +1,4 @@
-# GBS-C-AIO
+# GBS-C AIO
 Build files for the GBS-C AIO
 
 The GBS-C AIO is an open source add-on board for the GBS 8200 running the Gbscontrol custom open source firmware by Rama and others.
