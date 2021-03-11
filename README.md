@@ -35,7 +35,7 @@ The GBS-C AIO key features are:
 
 A basic BOM, Gerbers (PCB plates and AIO Board), KiCad source files and acrylic plate files are included in this repository.
 
-The recomeded addtions and modifications to the GBS 8200 Scaler are: 
+The recommended additions and modifications to the GBS 8200 Scaler are:
 
 1. Remove the pots
 2. Clock mod - https://github.com/ramapcsx2/gbs-control/wiki/Si5351-Clock-Generator-install-notes use SDA and SCL pads on the AIO board for easy installation.
