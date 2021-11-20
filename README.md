@@ -1,7 +1,7 @@
 # GBS-C AIO
 Build files for the GBS-C AIO
 
-The GBS-C AIO is an open source add-on board for the GBS 8200 running the Gbscontrol custom open source firmware by Rama and others.
+The GBS-C AIO is an open source add-on board for the GBS8200 running the GBScontrol custom open source firmware by Rama and others.
 
 The GBS-C AIO key features are: 
 
@@ -35,7 +35,7 @@ The GBS-C AIO key features are:
 
 A basic BOM, Gerbers (PCB plates and AIO Board), KiCad source files and acrylic plate files are included in this repository.
 
-The recommended additions and modifications to the GBS 8200 Scaler are:
+The recommended additions and modifications to the GBS8200 Scaler are:
 
 1. Remove the pots
 2. Clock mod - https://github.com/ramapcsx2/gbs-control/wiki/Si5351-Clock-Generator-install-notes use SDA and SCL pads on the AIO board for easy installation.
@@ -43,14 +43,12 @@ The recommended additions and modifications to the GBS 8200 Scaler are:
 4. Add a a resistor value in parallel with r26 to correct the ypbpr output brightness.
 5. Replace the 150 ohm resistor on r26 if it is outside of 1% tolerance.
 
-This project uses the GBScontorl firmware by Rama - https://github.com/ramapcsx2/gbs-control
+This project uses the GBScontrol firmware by Rama - https://github.com/ramapcsx2/gbs-control
 
-Suport the GBScontrol project and Buy Rama a coffee - https://www.buymeacoffee.com/ramapcsx2 
+Support the GBScontrol project and buy Rama a coffee - https://www.buymeacoffee.com/ramapcsx2 
 
 AIO board design by Jacob Proctor (Arithmaldor) - https://twitter.com/Arithmaldor
 
-GBS-C AIO user fourm - https://www.gbscaio.com/forum
+GBS-C AIO Public Facebook Group - https://www.facebook.com/groups/gbscaio
 
-GBS-C AIO Private Facebook Group - https://www.facebook.com/groups/gbscaio
-
-**PLEASE NOTE: The Bill of Matrials is still a WIP project and may be missing a few componets, this will be updated soon.** 
+**PLEASE NOTE: The Bill of Materials is still a WIP project and may be missing a few components, this will be updated soon.** 
