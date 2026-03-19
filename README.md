@@ -50,5 +50,3 @@ Support the GBScontrol project and buy Rama a coffee - https://www.buymeacoffee.
 AIO board design by Jacob Proctor (Arithmaldor) - https://tinkerplunk.wordpress.com/
 
 GBS-C AIO Public Facebook Group - https://www.facebook.com/groups/gbscaio
-
-**PLEASE NOTE: The Bill of Materials is still a WIP project and may be missing a few components, this will be updated soon.** 
